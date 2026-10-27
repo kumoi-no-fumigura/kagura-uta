@@ -5,7 +5,12 @@
  "yomi": "かぐらうた",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（神楽歌）",
+  "era": "平安時代",
+  "author": "未詳",
+  "desc": "宮中の御神楽で歌われた歌謡。採物・前張などの曲からなる。"
+ },
  "editions": [
   {
    "pid": "1913603",
