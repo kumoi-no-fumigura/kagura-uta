@@ -2457,6 +2457,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 69,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "kagura-uta",
   "work": "神楽歌",
@@ -2469,7 +2473,7 @@
   "blocks": 73,
   "chars": 4173,
   "poems": 71,
-  "yaku": 0,
+  "yaku": 69,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T09:26:23+09:00"
